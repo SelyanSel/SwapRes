@@ -1,0 +1,13 @@
+C:\Users\celia\source\repos\SwapRes\SwapRes\bin\Debug\SwapRes.exe.config
+C:\Users\celia\source\repos\SwapRes\SwapRes\bin\Debug\SwapRes.exe
+C:\Users\celia\source\repos\SwapRes\SwapRes\bin\Debug\SwapRes.pdb
+C:\Users\celia\source\repos\SwapRes\SwapRes\obj\Debug\SwapRes.csproj.AssemblyReference.cache
+C:\Users\celia\source\repos\SwapRes\SwapRes\obj\Debug\SwapRes.Form1.resources
+C:\Users\celia\source\repos\SwapRes\SwapRes\obj\Debug\SwapRes.Properties.Resources.resources
+C:\Users\celia\source\repos\SwapRes\SwapRes\obj\Debug\SwapRes.csproj.GenerateResource.cache
+C:\Users\celia\source\repos\SwapRes\SwapRes\obj\Debug\SwapRes.csproj.CoreCompileInputs.cache
+C:\Users\celia\source\repos\SwapRes\SwapRes\obj\Debug\SwapRes.exe
+C:\Users\celia\source\repos\SwapRes\SwapRes\obj\Debug\SwapRes.pdb
+C:\Users\celia\source\repos\SwapRes\SwapRes\bin\Debug\Newtonsoft.Json.dll
+C:\Users\celia\source\repos\SwapRes\SwapRes\bin\Debug\Newtonsoft.Json.xml
+C:\Users\celia\source\repos\SwapRes\SwapRes\obj\Debug\SwapRes.csproj.Up2Date
